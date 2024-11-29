@@ -20,7 +20,7 @@ actor Zloy2711{
                 // -> No primitivos {Tuples, Arrays, Objects, Variants, Function values, Async values, Error values}  
   //Operadores -> Numericos{ +,-,/,* } De asignacion { :=, +=, -=, =} De texto { # -> Para concatenar }
   //Control de flujos -> (ciclos, etc) -> If else, switch, loops -> { for, while, do-while}
-  let arr : [Nat8] = [1,2,3,4];
+  //let arr : [Nat8] = [1,2,3,4];
   
   public func obtArray(indice:Nat) : async Text{
     //let arr1 : [(Text,Nat8)] = [("Huevos",8),("So",165)];
